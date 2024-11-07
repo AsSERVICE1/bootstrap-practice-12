@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+.heading-xl
+{
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: calc(100% + 1vw + 2vh);
+    line-height: 52.8px;
+}
+.heading-large
+{
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: calc(100% + 1vw + 1vh);
+    line-height: 44px;
+}
+.heading-medium
+{
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: calc(100% + 1vw + 1vh);
+    line-height: 40.2px;
+}
+.heading-small
+{
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: calc(100% + 0vw + 1vh);
+
+}
+.heading-xsmall
+{
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: calc(111% + 0vw + 0vh);
+
+}
+.body-large
+{
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: calc(111% + 0vw + 0vh);
+}
+.body-medium
+{
+    font-family: Manrope;
+    font-size: calc(100% + 0vw + 0vh);
+}
+.body-small
+{
+    font-family: Manrope;
+    font-size: calc(96% + 0vw + 0vh);
+}
+.button-large
+{
+    font-family: Manrope;
+    font-size: calc(100% + 1vw + 2vh);
+    font-weight: bold;
+}
+.button-medium
+{
+    font-family: Manrope;
+    font-size: calc(100% + 0vw + 0vh);
+    font-weight: bold;
+}
+.button-small
+{
+    font-family: Manrope;
+    font-size: calc(100% + 1vw + 2vh);
+    font-weight: bold;
+}
+.button-xsmall
+{
+    font-family: Manrope;
+    font-size: calc(100% + 1vw + 2vh);
+    font-weight: bold;
+}
+.formmmm {
+     border: 0px; 
+    border-radius: 0px;
+}
+.formmmm:focus{
+
+    box-shadow: 0 0 0 0;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #D760C7;
+}
+.fin
+{
+    background-image: url(images/back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.boxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 9px;
+    width: 60px;
+    height: 60px;
+}
+.boxxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 11px;
+    width: 50px;
+    height: 50px;
+}
+.boxxxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 6px;
+    width: 35px;
+    height: 35px;
+    background-color: #26A845;
+}
+.cardddd
+{
+    border-radius: 20px;
+}
+.boxxxxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 5px 8px;
+    width: 35px;
+    height: 35px;
+    background-color: #ED2727;
+}
+.boxxxxxxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    background-color: #76D913;
+}
+.boxxxxxxxxxxx
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    background-color: #F15E07;
+}
+.icon-p
+{
+    font-family: Manrope;
+    font-size: calc(96% + 0vw + 0vh);
+    font-weight: 400;
+    line-height: 16.39px;
+    text-align: left;
+
+}
+.content
+{
+    border: 1px solid #c7c7c7;
+    border-radius: 50%;
+    width: 25%;
+    height: 60%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.finn
+{
+    font-family: Manrope;
+    font-size: calc(100% + 1vw + 0vh);
+    font-weight: 800;
+    line-height: 43.71px;
+}
+.foot-list li a
+{
+    text-decoration: none;
+    color: #D9D9D9CC;
+}
+.foot-h
+{
+    font-family: Manrope;
+    font-size: calc(137% + 0vw + 0vh);
+    font-weight: 700;
+    line-height: 24.59px;
+
+}
+.foot-li
+{
+    font-family: Nunito Sans;
+    font-size: calc(108% + 0vw + 0vh);
+font-weight: 400;
+line-height: 19.1px;
+color: #D9D9D9CC;
+
+}
+.foot-con
+{
+    font-family: Manrope;
+    font-size: calc(108% + 0vw + 0vh);
+    font-weight: 400;
+    line-height: 24.59px;
+    color: #FFFFFF;
+
+}

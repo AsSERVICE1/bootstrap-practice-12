@@ -1,0 +1,24 @@
+//custom variables
+
+$primary:#D760C7;
+$secondary:#3DD8D0;
+
+//import the functions and variables
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-theme-color:
+(
+    "circle1":#EDD1D1,
+    "circle2":#BEE0DA,
+    "circle4":#D8D9DC,
+    "circle5":#A2DFFF,
+    "black":#000
+
+
+);
+
+$theme-colors: map-merge($custom-theme-color , $theme-colors );
+//import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap'; 
